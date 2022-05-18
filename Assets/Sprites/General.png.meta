@@ -1,0 +1,4136 @@
+fileFormatVersion: 2
+guid: e0f9f8d9b3d59ce4fb258e0ffb7248f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6948327161692101401
+    second: Arcade - Dig Dug - General Sprites II_0
+  - first:
+      213: 2231095025470337842
+    second: Arcade - Dig Dug - General Sprites II_1
+  - first:
+      213: -7531429691851083023
+    second: Arcade - Dig Dug - General Sprites II_2
+  - first:
+      213: -3982981606437334379
+    second: Arcade - Dig Dug - General Sprites II_3
+  - first:
+      213: 4542895125635563327
+    second: Arcade - Dig Dug - General Sprites II_4
+  - first:
+      213: 6096500316553796098
+    second: Arcade - Dig Dug - General Sprites II_5
+  - first:
+      213: -6378989961048462436
+    second: Arcade - Dig Dug - General Sprites II_6
+  - first:
+      213: -5033096980322251718
+    second: Arcade - Dig Dug - General Sprites II_7
+  - first:
+      213: 5458726241013442921
+    second: Arcade - Dig Dug - General Sprites II_8
+  - first:
+      213: 873675117385005794
+    second: Arcade - Dig Dug - General Sprites II_9
+  - first:
+      213: -3011838675209310684
+    second: Arcade - Dig Dug - General Sprites II_10
+  - first:
+      213: 4789595880867300428
+    second: Arcade - Dig Dug - General Sprites II_11
+  - first:
+      213: 4988850216009839207
+    second: Arcade - Dig Dug - General Sprites II_12
+  - first:
+      213: -3667944368508368259
+    second: Arcade - Dig Dug - General Sprites II_13
+  - first:
+      213: 2485744763143549460
+    second: Arcade - Dig Dug - General Sprites II_14
+  - first:
+      213: 8573815921976320825
+    second: Arcade - Dig Dug - General Sprites II_15
+  - first:
+      213: 7874164681888760610
+    second: Arcade - Dig Dug - General Sprites II_16
+  - first:
+      213: -5249238379792448410
+    second: Arcade - Dig Dug - General Sprites II_17
+  - first:
+      213: 4270454131259951223
+    second: Arcade - Dig Dug - General Sprites II_18
+  - first:
+      213: -8482737042691942939
+    second: Arcade - Dig Dug - General Sprites II_19
+  - first:
+      213: -3187440223901752843
+    second: Arcade - Dig Dug - General Sprites II_20
+  - first:
+      213: -7887864112279965028
+    second: Arcade - Dig Dug - General Sprites II_21
+  - first:
+      213: -2385098483458054295
+    second: Arcade - Dig Dug - General Sprites II_22
+  - first:
+      213: -7778188483224568476
+    second: Arcade - Dig Dug - General Sprites II_23
+  - first:
+      213: -4009010877535066891
+    second: Arcade - Dig Dug - General Sprites II_24
+  - first:
+      213: 8304034981929167087
+    second: Arcade - Dig Dug - General Sprites II_25
+  - first:
+      213: -2729051785664116726
+    second: Arcade - Dig Dug - General Sprites II_26
+  - first:
+      213: 4628737567534694616
+    second: Arcade - Dig Dug - General Sprites II_27
+  - first:
+      213: -442686227066475169
+    second: Arcade - Dig Dug - General Sprites II_28
+  - first:
+      213: -5314285758949420049
+    second: Arcade - Dig Dug - General Sprites II_29
+  - first:
+      213: -9134173141423409522
+    second: Arcade - Dig Dug - General Sprites II_30
+  - first:
+      213: -5218614687767375662
+    second: Arcade - Dig Dug - General Sprites II_31
+  - first:
+      213: -3201960163730871650
+    second: Arcade - Dig Dug - General Sprites II_32
+  - first:
+      213: -1281315425026958333
+    second: Arcade - Dig Dug - General Sprites II_33
+  - first:
+      213: -430286676888123845
+    second: Arcade - Dig Dug - General Sprites II_34
+  - first:
+      213: 5890333174259534854
+    second: Arcade - Dig Dug - General Sprites II_35
+  - first:
+      213: 2572667829107384692
+    second: Arcade - Dig Dug - General Sprites II_36
+  - first:
+      213: 9053248043990743375
+    second: Arcade - Dig Dug - General Sprites II_37
+  - first:
+      213: -7828238017712209402
+    second: Arcade - Dig Dug - General Sprites II_38
+  - first:
+      213: 2760308967281401739
+    second: Arcade - Dig Dug - General Sprites II_39
+  - first:
+      213: 6741756826053103938
+    second: Arcade - Dig Dug - General Sprites II_40
+  - first:
+      213: -9181132427175317561
+    second: Arcade - Dig Dug - General Sprites II_41
+  - first:
+      213: 7916568260606524181
+    second: Arcade - Dig Dug - General Sprites II_42
+  - first:
+      213: 5283016933240473088
+    second: Arcade - Dig Dug - General Sprites II_43
+  - first:
+      213: -7616243818632987626
+    second: Arcade - Dig Dug - General Sprites II_44
+  - first:
+      213: 3687784363299321983
+    second: Arcade - Dig Dug - General Sprites II_45
+  - first:
+      213: -2428074294145162908
+    second: Arcade - Dig Dug - General Sprites II_46
+  - first:
+      213: 3198954583372801312
+    second: Arcade - Dig Dug - General Sprites II_47
+  - first:
+      213: 6270884159000332338
+    second: Arcade - Dig Dug - General Sprites II_48
+  - first:
+      213: -4285242549778911710
+    second: Arcade - Dig Dug - General Sprites II_49
+  - first:
+      213: 1012513643359648072
+    second: Arcade - Dig Dug - General Sprites II_50
+  - first:
+      213: 2530494330020183028
+    second: Arcade - Dig Dug - General Sprites II_51
+  - first:
+      213: -6732506283220578748
+    second: Arcade - Dig Dug - General Sprites II_52
+  - first:
+      213: 1246062899024453373
+    second: Arcade - Dig Dug - General Sprites II_53
+  - first:
+      213: 1409115098531680548
+    second: Arcade - Dig Dug - General Sprites II_54
+  - first:
+      213: 7368250682507424071
+    second: Arcade - Dig Dug - General Sprites II_55
+  - first:
+      213: -1989043693464211895
+    second: Arcade - Dig Dug - General Sprites II_56
+  - first:
+      213: 553490793852817874
+    second: Arcade - Dig Dug - General Sprites II_57
+  - first:
+      213: 4121063426040340037
+    second: Arcade - Dig Dug - General Sprites II_58
+  - first:
+      213: 1172797793023263751
+    second: Arcade - Dig Dug - General Sprites II_59
+  - first:
+      213: -839578742882664865
+    second: Arcade - Dig Dug - General Sprites II_60
+  - first:
+      213: -4763542150660623959
+    second: Arcade - Dig Dug - General Sprites II_61
+  - first:
+      213: 307717669485583107
+    second: Arcade - Dig Dug - General Sprites II_62
+  - first:
+      213: 8056892916043127914
+    second: Arcade - Dig Dug - General Sprites II_63
+  - first:
+      213: 3594244123772115982
+    second: Arcade - Dig Dug - General Sprites II_64
+  - first:
+      213: 3498902958356809805
+    second: Arcade - Dig Dug - General Sprites II_65
+  - first:
+      213: -831975314643032531
+    second: Arcade - Dig Dug - General Sprites II_66
+  - first:
+      213: -1857053486457248233
+    second: Arcade - Dig Dug - General Sprites II_67
+  - first:
+      213: -8763454826341606738
+    second: Arcade - Dig Dug - General Sprites II_68
+  - first:
+      213: -7977395597058459362
+    second: Arcade - Dig Dug - General Sprites II_69
+  - first:
+      213: -3976770499338461174
+    second: Arcade - Dig Dug - General Sprites II_70
+  - first:
+      213: 2345520335301034184
+    second: Arcade - Dig Dug - General Sprites II_71
+  - first:
+      213: -4611524942437325313
+    second: Arcade - Dig Dug - General Sprites II_72
+  - first:
+      213: 8447144527689852104
+    second: Arcade - Dig Dug - General Sprites II_73
+  - first:
+      213: 2264505876335700362
+    second: Arcade - Dig Dug - General Sprites II_74
+  - first:
+      213: -8144178149035713751
+    second: Arcade - Dig Dug - General Sprites II_75
+  - first:
+      213: 9072434444267131201
+    second: Arcade - Dig Dug - General Sprites II_76
+  - first:
+      213: 2126852423763318214
+    second: Arcade - Dig Dug - General Sprites II_77
+  - first:
+      213: 5689120766895608641
+    second: Arcade - Dig Dug - General Sprites II_78
+  - first:
+      213: 5208855435024063089
+    second: Arcade - Dig Dug - General Sprites II_79
+  - first:
+      213: -812129923541116948
+    second: Arcade - Dig Dug - General Sprites II_80
+  - first:
+      213: -2448601992238136046
+    second: Arcade - Dig Dug - General Sprites II_81
+  - first:
+      213: -814280789045276363
+    second: Arcade - Dig Dug - General Sprites II_82
+  - first:
+      213: -1329060270209277771
+    second: Arcade - Dig Dug - General Sprites II_83
+  - first:
+      213: -5863023974250525543
+    second: Arcade - Dig Dug - General Sprites II_84
+  - first:
+      213: 3878911138730669137
+    second: Arcade - Dig Dug - General Sprites II_85
+  - first:
+      213: -6757589644413650708
+    second: Arcade - Dig Dug - General Sprites II_86
+  - first:
+      213: -876871394039511350
+    second: Arcade - Dig Dug - General Sprites II_87
+  - first:
+      213: -5426878719837652309
+    second: Arcade - Dig Dug - General Sprites II_88
+  - first:
+      213: -3688648328479981325
+    second: Arcade - Dig Dug - General Sprites II_89
+  - first:
+      213: 3750470664669686851
+    second: Arcade - Dig Dug - General Sprites II_90
+  - first:
+      213: 3314770964288906358
+    second: Arcade - Dig Dug - General Sprites II_91
+  - first:
+      213: 1192622563805829578
+    second: Arcade - Dig Dug - General Sprites II_92
+  - first:
+      213: -979042570321997565
+    second: Arcade - Dig Dug - General Sprites II_93
+  - first:
+      213: 6299824720582733811
+    second: Arcade - Dig Dug - General Sprites II_94
+  - first:
+      213: 1016363901994508379
+    second: Arcade - Dig Dug - General Sprites II_95
+  - first:
+      213: 8794641921900201039
+    second: Arcade - Dig Dug - General Sprites II_96
+  - first:
+      213: -3289674828364707697
+    second: Arcade - Dig Dug - General Sprites II_97
+  - first:
+      213: 4851602390366649182
+    second: Arcade - Dig Dug - General Sprites II_98
+  - first:
+      213: -6763293629946776547
+    second: Arcade - Dig Dug - General Sprites II_99
+  - first:
+      213: 4400320595023251313
+    second: Arcade - Dig Dug - General Sprites II_100
+  - first:
+      213: 8885728065627444895
+    second: Arcade - Dig Dug - General Sprites II_101
+  - first:
+      213: -4426480989253651995
+    second: Arcade - Dig Dug - General Sprites II_102
+  - first:
+      213: 8360502296180643447
+    second: Arcade - Dig Dug - General Sprites II_103
+  - first:
+      213: -6497716894493849931
+    second: Arcade - Dig Dug - General Sprites II_104
+  - first:
+      213: -1925575262162695124
+    second: Arcade - Dig Dug - General Sprites II_105
+  - first:
+      213: 5761294794976212242
+    second: Arcade - Dig Dug - General Sprites II_106
+  - first:
+      213: -8014188887389108865
+    second: Arcade - Dig Dug - General Sprites II_107
+  - first:
+      213: -4091778923108615165
+    second: Arcade - Dig Dug - General Sprites II_108
+  - first:
+      213: -2624930045656158750
+    second: Arcade - Dig Dug - General Sprites II_109
+  - first:
+      213: -1637169648896860328
+    second: Arcade - Dig Dug - General Sprites II_110
+  - first:
+      213: -1368645753784457018
+    second: Arcade - Dig Dug - General Sprites II_111
+  - first:
+      213: 7545140060688585462
+    second: Arcade - Dig Dug - General Sprites II_112
+  - first:
+      213: 8469400185445008816
+    second: Arcade - Dig Dug - General Sprites II_113
+  - first:
+      213: 1546867492648741064
+    second: Arcade - Dig Dug - General Sprites II_114
+  - first:
+      213: 1344500772728674142
+    second: Arcade - Dig Dug - General Sprites II_115
+  - first:
+      213: -2440886292170234180
+    second: Arcade - Dig Dug - General Sprites II_116
+  - first:
+      213: 8980706003142945891
+    second: Arcade - Dig Dug - General Sprites II_117
+  - first:
+      213: 1713189055994261048
+    second: Arcade - Dig Dug - General Sprites II_118
+  - first:
+      213: 3352215856082947808
+    second: Arcade - Dig Dug - General Sprites II_119
+  - first:
+      213: 3934015267431428775
+    second: Arcade - Dig Dug - General Sprites II_120
+  - first:
+      213: -6523740822739914368
+    second: Arcade - Dig Dug - General Sprites II_121
+  - first:
+      213: -5646656125467689079
+    second: Arcade - Dig Dug - General Sprites II_122
+  - first:
+      213: -6572148448157502629
+    second: Arcade - Dig Dug - General Sprites II_123
+  - first:
+      213: 6482973200422303620
+    second: Arcade - Dig Dug - General Sprites II_124
+  - first:
+      213: -7805432531183388523
+    second: Arcade - Dig Dug - General Sprites II_125
+  - first:
+      213: 155939163299141344
+    second: Arcade - Dig Dug - General Sprites II_126
+  - first:
+      213: 4685946620646277160
+    second: Arcade - Dig Dug - General Sprites II_127
+  - first:
+      213: 5735510867511652363
+    second: Arcade - Dig Dug - General Sprites II_128
+  - first:
+      213: -835312620270339680
+    second: Arcade - Dig Dug - General Sprites II_129
+  - first:
+      213: -849953008979309891
+    second: Arcade - Dig Dug - General Sprites II_130
+  - first:
+      213: 5876682349856305645
+    second: Arcade - Dig Dug - General Sprites II_131
+  - first:
+      213: -1387761116794687383
+    second: Arcade - Dig Dug - General Sprites II_132
+  - first:
+      213: 7878966799848994002
+    second: Arcade - Dig Dug - General Sprites II_133
+  - first:
+      213: -6616505233578956715
+    second: Arcade - Dig Dug - General Sprites II_134
+  - first:
+      213: 7051879673520908524
+    second: Arcade - Dig Dug - General Sprites II_135
+  - first:
+      213: 4114171521507506844
+    second: Arcade - Dig Dug - General Sprites II_136
+  - first:
+      213: 882720757862863010
+    second: Arcade - Dig Dug - General Sprites II_137
+  - first:
+      213: 8841071518998933878
+    second: Arcade - Dig Dug - General Sprites II_138
+  - first:
+      213: -7862295414083321930
+    second: Arcade - Dig Dug - General Sprites II_139
+  - first:
+      213: -5439928721033310771
+    second: Arcade - Dig Dug - General Sprites II_140
+  - first:
+      213: -3936975196418633150
+    second: Arcade - Dig Dug - General Sprites II_141
+  - first:
+      213: -2201939002141838878
+    second: Arcade - Dig Dug - General Sprites II_142
+  - first:
+      213: -7988051495179231027
+    second: Arcade - Dig Dug - General Sprites II_143
+  - first:
+      213: -1074121156179607713
+    second: Arcade - Dig Dug - General Sprites II_144
+  - first:
+      213: -310102817007565165
+    second: Arcade - Dig Dug - General Sprites II_145
+  - first:
+      213: 8318533453327498220
+    second: Arcade - Dig Dug - General Sprites II_146
+  - first:
+      213: -3043045187043819963
+    second: Arcade - Dig Dug - General Sprites II_147
+  - first:
+      213: 7731235961988511088
+    second: Arcade - Dig Dug - General Sprites II_148
+  - first:
+      213: -5533745418774014559
+    second: Arcade - Dig Dug - General Sprites II_149
+  - first:
+      213: 7579508603431587074
+    second: Arcade - Dig Dug - General Sprites II_150
+  - first:
+      213: 2287159202372811388
+    second: Arcade - Dig Dug - General Sprites II_151
+  - first:
+      213: 2832727219918346762
+    second: Arcade - Dig Dug - General Sprites II_152
+  - first:
+      213: -6214004437946833555
+    second: Arcade - Dig Dug - General Sprites II_153
+  - first:
+      213: 8687384337125870591
+    second: Arcade - Dig Dug - General Sprites II_154
+  - first:
+      213: 4133346707767058074
+    second: Arcade - Dig Dug - General Sprites II_155
+  - first:
+      213: 4389870101673612648
+    second: Arcade - Dig Dug - General Sprites II_156
+  - first:
+      213: 6381270151512718557
+    second: Arcade - Dig Dug - General Sprites II_157
+  - first:
+      213: -2432058859155995109
+    second: Arcade - Dig Dug - General Sprites II_158
+  - first:
+      213: -7400573781113217549
+    second: Arcade - Dig Dug - General Sprites II_159
+  - first:
+      213: 5743860899736132226
+    second: Arcade - Dig Dug - General Sprites II_160
+  - first:
+      213: 3551614312896272642
+    second: Arcade - Dig Dug - General Sprites II_161
+  - first:
+      213: -857557227320649786
+    second: Arcade - Dig Dug - General Sprites II_162
+  - first:
+      213: -3076079014762234064
+    second: Arcade - Dig Dug - General Sprites II_163
+  - first:
+      213: -2473172720421207959
+    second: Arcade - Dig Dug - General Sprites II_164
+  - first:
+      213: 3899840463505556455
+    second: Arcade - Dig Dug - General Sprites II_165
+  - first:
+      213: 1323706195557236806
+    second: Arcade - Dig Dug - General Sprites II_166
+  - first:
+      213: 7956461824179278284
+    second: Arcade - Dig Dug - General Sprites II_167
+  - first:
+      213: -7504079900441908482
+    second: Arcade - Dig Dug - General Sprites II_168
+  - first:
+      213: -1056023189511587645
+    second: Arcade - Dig Dug - General Sprites II_169
+  - first:
+      213: 7941375479899550040
+    second: Arcade - Dig Dug - General Sprites II_170
+  - first:
+      213: 7385997067075557818
+    second: Arcade - Dig Dug - General Sprites II_171
+  - first:
+      213: 6099745825369722849
+    second: Arcade - Dig Dug - General Sprites II_172
+  - first:
+      213: 248249158553324173
+    second: Arcade - Dig Dug - General Sprites II_173
+  - first:
+      213: -1814136097430852446
+    second: Arcade - Dig Dug - General Sprites II_174
+  - first:
+      213: 232854747835183443
+    second: General_5
+  - first:
+      213: -2664751172987047288
+    second: General_6
+  - first:
+      213: 4154663363154342524
+    second: General_7
+  - first:
+      213: 5618972051590531670
+    second: General_8
+  - first:
+      213: 2440272111937495713
+    second: General_9
+  - first:
+      213: -8049741531878901084
+    second: General_10
+  - first:
+      213: -8413060031499241702
+    second: General_11
+  - first:
+      213: 7422330087579933422
+    second: General_12
+  - first:
+      213: 2002485112459718284
+    second: General_13
+  - first:
+      213: -1275831690435379319
+    second: General_14
+  - first:
+      213: 329727896566720165
+    second: General_15
+  - first:
+      213: 7412320156082737785
+    second: General_16
+  - first:
+      213: -2097224967589414909
+    second: General_17
+  - first:
+      213: 8140123880437787944
+    second: General_18
+  - first:
+      213: 2438393261465058855
+    second: General_19
+  - first:
+      213: 6030144671638036906
+    second: General_20
+  - first:
+      213: -3571917874221884252
+    second: General_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 401
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b1bdf5dba6d6060800000000000000
+      internalID: 6948327161692101401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 401
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fc45da1176fe10800000000000000
+      internalID: 2231095025470337842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 402
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2f266399cfa7790800000000000000
+      internalID: -7531429691851083023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 401
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5925369e45b99b8c0800000000000000
+      internalID: -3982981606437334379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 401
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f7c572c0b9b0f30800000000000000
+      internalID: 4542895125635563327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 401
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ade3dbcbe1b9450800000000000000
+      internalID: 6096500316553796098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 401
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b6ce18d664977a0800000000000000
+      internalID: -6378989961048462436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 403
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c0dcf76f8d62ab0800000000000000
+      internalID: -5033096980322251718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969a5b9389a41cb40800000000000000
+      internalID: 5458726241013442921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eab4dce3eaef1c00800000000000000
+      internalID: 873675117385005794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ead5baeacc336d0800000000000000
+      internalID: -3011838675209310684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4405c8c310187240800000000000000
+      internalID: 4789595880867300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762b5e2e6d4fb3540800000000000000
+      internalID: 4988850216009839207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a0a2bc708d81dc0800000000000000
+      internalID: -3667944368508368259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412757921b32f7220800000000000000
+      internalID: 2485744763143549460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933acfea7205cf670800000000000000
+      internalID: 8573815921976320825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22308ee1f07a64d60800000000000000
+      internalID: 7874164681888760610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664cf175185f627b0800000000000000
+      internalID: -5249238379792448410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77849531863b34b30800000000000000
+      internalID: 4270454131259951223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e59c476a93474a80800000000000000
+      internalID: -8482737042691942939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f16b8f0100f3c3d0800000000000000
+      internalID: -3187440223901752843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92300fa16da88290800000000000000
+      internalID: -7887864112279965028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967e82be09d66eed0800000000000000
+      internalID: -2385098483458054295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d7d5df8c25e0490800000000000000
+      internalID: -7778188483224568476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f468d7f8d12d58c0800000000000000
+      internalID: -4009010877535066891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 368
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe82e44c1dbdd3370800000000000000
+      internalID: 8304034981929167087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 369
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0848dd2cd5702ad0800000000000000
+      internalID: -2729051785664116726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 368
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d049672b449c3040800000000000000
+      internalID: 4628737567534694616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 369
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5daeb0d8334bd9f0800000000000000
+      internalID: -442686227066475169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 368
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe317ee224ddf36b0800000000000000
+      internalID: -5314285758949420049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 369
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e863b8c3ce5ec3180800000000000000
+      internalID: -9134173141423409522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_31
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 368
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d05df34791c397b0800000000000000
+      internalID: -5218614687767375662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aaedf123a5093d0800000000000000
+      internalID: -3201960163730871650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 355
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1a0ed86ad73ee0800000000000000
+      internalID: -1281315425026958333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3600801c80570af0800000000000000
+      internalID: -430286676888123845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 355
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c407c40daaeb150800000000000000
+      internalID: 5890333174259534854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471650f82c3f3b320800000000000000
+      internalID: 2572667829107384692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 321
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49719d312993ad70800000000000000
+      internalID: 9053248043990743375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 304
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6024e09aff28c5390800000000000000
+      internalID: -7828238017712209402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 321
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f122981669e4620800000000000000
+      internalID: 2760308967281401739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d5fa2d188f8d50800000000000000
+      internalID: 6741756826053103938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 320
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf256283b0169080800000000000000
+      internalID: -9181132427175317561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 320
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b7595a3ec4ddd60800000000000000
+      internalID: 7916568260606524181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 321
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0060c2009eb015940800000000000000
+      internalID: 5283016933240473088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 320
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cbd9b799aad4690800000000000000
+      internalID: -7616243818632987626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_45
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 320
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7832b6f654ad2330800000000000000
+      internalID: 3687784363299321983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 321
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46168314b4fbd4ed0800000000000000
+      internalID: -2428074294145162908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 320
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0252b8aae38f46c20800000000000000
+      internalID: 3198954583372801312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 320
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238c6d40be7a60750800000000000000
+      internalID: 6270884159000332338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ee90cea92c784c0800000000000000
+      internalID: -4285242549778911710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84930ba4bcb2d0e00800000000000000
+      internalID: 1012513643359648072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 305
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb3efe9f2f1e1320800000000000000
+      internalID: 2530494330020183028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_52
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 305
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4d8ca4355192a0800000000000000
+      internalID: -6732506283220578748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe5520da97ea4110800000000000000
+      internalID: 1246062899024453373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 305
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421de9f57be2e8310800000000000000
+      internalID: 1409115098531680548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 305
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74172e205f8414660800000000000000
+      internalID: 7368250682507424071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_56
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 304
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea5589c4f7564e0800000000000000
+      internalID: -1989043693464211895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1db0ac1f46ea700800000000000000
+      internalID: 553490793852817874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 305
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e1df50a55f03930800000000000000
+      internalID: 4121063426040340037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_59
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 289
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7048386016d964010800000000000000
+      internalID: 1172797793023263751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e7285e4973954f0800000000000000
+      internalID: -839578742882664865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 259
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1f54df6af74edb0800000000000000
+      internalID: -4763542150660623959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 257
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b9ccc079b354400800000000000000
+      internalID: 307717669485583107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 260
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c9c1e7b65dfcf60800000000000000
+      internalID: 8056892916043127914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_64
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 260
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd879ccf151e130800000000000000
+      internalID: 3594244123772115982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_65
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 259
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48cb60e3b99e8030800000000000000
+      internalID: 3498902958356809805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 259
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26eeccfbda3474f0800000000000000
+      internalID: -831975314643032531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_67
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 261
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716a0d271bb6a36e0800000000000000
+      internalID: -1857053486457248233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_70
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 261
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00ada9fc4cafc8c0800000000000000
+      internalID: -3976770499338461174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 241
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8926ceb8142d6f10800000000000000
+      internalID: 2264505876335700362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_75
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 243
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b5a378f111afe80800000000000000
+      internalID: -8144178149035713751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_76
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 241
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1419f8a2f03c7ed70800000000000000
+      internalID: 9072434444267131201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 243
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c55718c209148d10800000000000000
+      internalID: 2126852423763318214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_78
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 243
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1435c1bf131d3fe40800000000000000
+      internalID: 5689120766895608641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_79
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 245
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad8f2ab62994840800000000000000
+      internalID: 5208855435024063089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_82
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 245
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5311885cfe713b4f0800000000000000
+      internalID: -814280789045276363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8bdda85083832a0800000000000000
+      internalID: -6757589644413650708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_87
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 222
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6c29cec1ab4d3f0800000000000000
+      internalID: -876871394039511350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_88
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 218
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa33f0ae8adfa4b0800000000000000
+      internalID: -5426878719837652309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_89
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 218
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0cc9773e94fccc0800000000000000
+      internalID: -3688648328479981325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_90
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 227
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce82cd2395c0430800000000000000
+      internalID: 3750470664669686851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_91
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 227
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674283e21ae600e20800000000000000
+      internalID: 3314770964288906358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_92
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 229
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac913ca27eb0d8010800000000000000
+      internalID: 1192622563805829578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_95
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 229
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50a9ec7599da1e00800000000000000
+      internalID: 1016363901994508379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_99
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 211
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d143c5be644f322a0800000000000000
+      internalID: -6763293629946776547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_100
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 211
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177423c6444111d30800000000000000
+      internalID: 4400320595023251313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_101
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 213
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96517ad892705b70800000000000000
+      internalID: 8885728065627444895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_104
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 213
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6c3ac29e873d5a0800000000000000
+      internalID: -6497716894493849931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3ea4afb41737c0800000000000000
+      internalID: -4091778923108615165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_109
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 190
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed2a6ce700629bd0800000000000000
+      internalID: -2624930045656158750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_110
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 186
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f9370e0ea9749e0800000000000000
+      internalID: -1637169648896860328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_111
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 186
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a45630f7910de0800000000000000
+      internalID: -1368645753784457018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_112
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 195
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f299e9c8e8b5b860800000000000000
+      internalID: 7545140060688585462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_113
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 195
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5c31a889a598570800000000000000
+      internalID: 8469400185445008816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_114
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 197
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c86de5f9c3977510800000000000000
+      internalID: 1546867492648741064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_118
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 197
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eef9b9e5876c710800000000000000
+      internalID: 1713189055994261048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_122
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 179
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ff6b0db2c03a1b0800000000000000
+      internalID: -5646656125467689079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_123
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 179
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53ff60aec90bc4a0800000000000000
+      internalID: -6572148448157502629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_124
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 181
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4877c8b07c528f950800000000000000
+      internalID: 6482973200422303620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00bc67feb0a89f40800000000000000
+      internalID: 5735510867511652363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_129
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9b268f89f5864f0800000000000000
+      internalID: -835312620270339680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_130
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8308dd3c5434f0800000000000000
+      internalID: -849953008979309891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_131
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de13ef0167b2e8150800000000000000
+      internalID: 5876682349856305645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_136
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 163
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9abb747339781930800000000000000
+      internalID: 4114171521507506844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_137
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 163
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a097483add004c00800000000000000
+      internalID: 882720757862863010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_138
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67131cb54bbc1ba70800000000000000
+      internalID: 8841071518998933878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_139
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 161
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf71642af383e290800000000000000
+      internalID: -7862295414083321930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_140
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 163
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd4d5376ad7184b0800000000000000
+      internalID: -5439928721033310771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_141
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 162
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24291f7faed0d59c0800000000000000
+      internalID: -3936975196418633150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_142
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 145
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1f148d4242171e0800000000000000
+      internalID: -2201939002141838878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_143
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 145
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc06056dc7db42190800000000000000
+      internalID: -7988051495179231027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_144
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 145
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fbe28df74f711f0800000000000000
+      internalID: -1074121156179607713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_145
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 145
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3968a64812b42bbf0800000000000000
+      internalID: -310102817007565165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_146
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 145
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebf9c13a1e517370800000000000000
+      internalID: 8318533453327498220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 145
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e7ace668ee4c5d0800000000000000
+      internalID: -3043045187043819963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075fc05452eda4b60800000000000000
+      internalID: 7731235961988511088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a597845cdf2433b0800000000000000
+      internalID: -5533745418774014559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_150
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 89
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8e87bae2df2960800000000000000
+      internalID: 7579508603431587074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_151
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 89
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a723a3d2f9dbf10800000000000000
+      internalID: 2287159202372811388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a10d8e56edf4720800000000000000
+      internalID: 2832727219918346762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_153
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 61
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d656a7b03eb63c9a0800000000000000
+      internalID: -6214004437946833555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_154
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 57
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb0ea1e60acf8870800000000000000
+      internalID: 8687384337125870591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_155
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 57
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e5cf96ee89c5930800000000000000
+      internalID: 4133346707767058074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8651d545993fbec30800000000000000
+      internalID: 4389870101673612648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_157
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcf7b4b463de8850800000000000000
+      internalID: 6381270151512718557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_158
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 17
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b164a2b6a579f3ed0800000000000000
+      internalID: -2432058859155995109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_159
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 16
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd5da22b51eb4990800000000000000
+      internalID: -7400573781113217549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_160
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 16
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a17085e0b46bf40800000000000000
+      internalID: 5743860899736132226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209106b766ed94130800000000000000
+      internalID: 3551614312896272642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_162
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7dbface385914f0800000000000000
+      internalID: -857557227320649786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_163
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f30101f629f45d0800000000000000
+      internalID: -3076079014762234064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_164
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9608b13a3868dadd0800000000000000
+      internalID: -2473172720421207959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_165
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e381f34d340f1630800000000000000
+      internalID: 3899840463505556455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_166
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6404c2585cfbe5210800000000000000
+      internalID: 1323706195557236806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_167
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1992bbfd70b6e60800000000000000
+      internalID: 7956461824179278284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_168
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efae200c6172cd790800000000000000
+      internalID: -7504079900441908482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_169
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8369211804851f0800000000000000
+      internalID: -1056023189511587645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_170
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851f86b7cee653e60800000000000000
+      internalID: 7941375479899550040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_171
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab99d172335508660800000000000000
+      internalID: 7385997067075557818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef8555a286a6a450800000000000000
+      internalID: 6099745825369722849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_173
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a4c5f5b45f17300800000000000000
+      internalID: 248249158553324173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Dig Dug - General Sprites II_174
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acab62c4d4e2d6e0800000000000000
+      internalID: -1814136097430852446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc01cd5761be8790800000000000000
+      internalID: -7525882869776839469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 113
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8f34c0b2337af20800000000000000
+      internalID: 3433769500875684059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f13aba69d4e7ef90800000000000000
+      internalID: -6924314279609224711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 93
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402830d27b8c42d0800000000000000
+      internalID: -3293103902278803385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d3b8ffef79cea30800000000000000
+      internalID: 4245935670168337686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351baf0d8244b3300800000000000000
+      internalID: 232854747835183443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8823d473de6e40bd0800000000000000
+      internalID: -2664751172987047288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72f422015458a930800000000000000
+      internalID: 4154663363154342524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac6e17f499afd40800000000000000
+      internalID: 5618972051590531670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 288
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2a3538e869dd120800000000000000
+      internalID: 2440272111937495713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa36a2e9b2994090800000000000000
+      internalID: -8049741531878901084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 272
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177374c97ece3b80800000000000000
+      internalID: -8413060031499241702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea55e3b3e9610760800000000000000
+      internalID: 7422330087579933422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e6b24a9914acb10800000000000000
+      internalID: 2002485112459718284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 272
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fb96256d55b4ee0800000000000000
+      internalID: -1275831690435379319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6656366cd639400800000000000000
+      internalID: 329727896566720165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 291
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97297c8e8e9ddd660800000000000000
+      internalID: 7412320156082737785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 274
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308b0c8e00925e2e0800000000000000
+      internalID: -2097224967589414909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 320
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d2b218a8787f070800000000000000
+      internalID: 8140123880437787944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 321
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eb45c80c9e6d120800000000000000
+      internalID: 2438393261465058855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 321
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1233931a06fa350800000000000000
+      internalID: 6030144671638036906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 321
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acd2244e9ffd6ec0800000000000000
+      internalID: -3571917874221884252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
